@@ -3,11 +3,11 @@
   <img src=".github/logo.png" alt="TechStore" width="120">
 <br>
 <br>
-Tech Store E-commerce
+Farma E-commerce
 </h1>
 
 <p align="center">
-Application created for the purpose of study, an ecommerce store
+Application created for the purpose of study, an ecommerce farma
 </p>
 
 <p align="center">
@@ -20,11 +20,6 @@ Application created for the purpose of study, an ecommerce store
 <img src=".github/preview8.gif" width="150" />
 <img src=".github/preview1.png" width="150" />
 <img src=".github/preview2.png" width="150" />
-<img src=".github/preview3.png" width="150" />
-<img src=".github/preview7.png" width="150" />
-<img src=".github/preview4.png" width="150" />
-<img src=".github/preview5.png" width="150" />
-<img src=".github/preview6.png" width="150" />
 </div>
 
 <hr />
@@ -41,7 +36,7 @@ Application created for the purpose of study, an ecommerce store
 
 ## Getting started
 
-1. Clone this repo using `git clone https://github.com/mfzaguiar/e-commerce-app.git`
+1. Clone this repo using `git clone https://github.com/raphaom35/Farma_react_native.git`
 2. Move yourself to the appropriate directory: `cd e-commerce-app`<br />
 3. Run `yarn` to install dependencies<br />
 
@@ -82,4 +77,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 
 ## Author
 
-- [**Matheus Aguiar**](https://www.linkedin.com/in/mfzaguiar/)
+- [**Raphael Martins**](https://www.linkedin.com/in/raphaelmartinsdev)

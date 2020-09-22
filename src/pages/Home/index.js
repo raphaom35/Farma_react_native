@@ -53,16 +53,16 @@ export default function Home({ navigation }) {
         },
       });
       const data = response.data[0].id;
-      console.log(department);
+
       response1 = await api.get('products', {
         params: {
           departmentId: data,
         },
       });
-      setProducts(response1.data);
+      //setProducts(response1.data);
     } else {
-      response = await api.get('products');
-      setProducts(response.data);
+      //response = await api.get('products');
+      //setProducts(response.data);
     }
     setLoading(false);
   }, [department]);
