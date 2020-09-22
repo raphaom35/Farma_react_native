@@ -19,7 +19,7 @@ Application created for the purpose of study, an ecommerce farma
 <div align="center">
 <img src=".github/preview8.gif" width="150" />
 <img src=".github/preview1.png" width="150" />
-<img src=".github/preview2.png" width="150" />
+
 </div>
 
 <hr />
