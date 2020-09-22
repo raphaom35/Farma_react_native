@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src=".github/logo.png" alt="TechStore" width="120">
+  <img src=".github/logo_.png" alt="TechStore" width="120">
 <br>
 <br>
 Farma E-commerce
