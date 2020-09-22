@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "entryPoint": "./src/App.js",
+    "name": "Enfarma",
+    "description": "Enfarma e-commerce",
+    "slug": "enfarma",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "androidStatusBar": {
+      "backgroundColor": "#cb726c",
+      "barStyle": "light-content"
+    },
+    "icon": "./src/assets/splash.png",
+    "android": {
+      "package": "com.br.enfarma"
+    },
+    "orientation": "portrait",
+    "splash": {
+      "image": "./src/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#cb726c"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
